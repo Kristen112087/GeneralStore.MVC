@@ -10,8 +10,8 @@ namespace GeneralStore.MVC.Models
     {
         [Key]
         public int ProductID { get; set; }
-    [Required]
-    [Display(Name = "Product Name")]
+        [Required]
+        [Display(Name = "Product Name")]
         public string Name { get; set; }
         [Required]
         [Display(Name ="# In Stock")]

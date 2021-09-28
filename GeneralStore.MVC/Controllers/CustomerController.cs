@@ -51,5 +51,17 @@ namespace GeneralStore.MVC.Controllers
         }
 
         //POST: Edit
+        [HttpPost, ActionName("Edit")]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit(Customer customer)
+        {
+            if (ModelState.IsValid)
+            {
+                _db.Entry(customer).State = System.Data.Entity.EntityState.Modified;
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(customer);
+        }
     }
 }

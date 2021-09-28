@@ -101,7 +101,6 @@ C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\bin\Microsoft.Owin.Secu
 C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\bin\Microsoft.Owin.Security.OAuth.xml
 C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.AssemblyReference.cache
 C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.CopyComplete
 C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.dll

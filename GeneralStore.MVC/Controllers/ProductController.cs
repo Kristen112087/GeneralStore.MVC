@@ -17,7 +17,7 @@ namespace GeneralStore.MVC.Controllers
         {
             List<Product> productList = _db.Products.ToList();
             List<Product> orderedList = productList.OrderBy(prod => prod.Name).ToList();
-            return View(orderedList);
+            return View();
         }
 
         //GET:Product

@@ -105,3 +105,4 @@ C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.
 C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.CopyComplete
 C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.dll
 C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.pdb
+C:\ElevenFiftyRedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.AssemblyReference.cache

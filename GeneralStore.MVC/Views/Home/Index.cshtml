@@ -5,14 +5,14 @@
 <div class="jumbotron">
     <h1>ASP.NET</h1>
     <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    @Html.ActionLink("Learn More About Us", "About")
 </div>
 
 <div class="row">
     <div class="col-md-4">
         <h2>Products</h2>
         <p>
-            Our General Store, Located in rural Indiana, is host to a multitude of fine food and items of distiction.<br/>Come browse our products and see what we have for you.
+            Our General Store, Located in rural Indiana, is host to a multitude of fine foods and items of distiction.<br/>Come browse our products and see what we have for you.
         </p>
         @Html.ActionLink("Check Products", "Index", "Product", null, new {@class = "btn btn-primary btn-large"})
     </div>

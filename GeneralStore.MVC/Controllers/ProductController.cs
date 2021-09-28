@@ -62,5 +62,11 @@ namespace GeneralStore.MVC.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
+
+        //GET: Edit
+        public ActionResult Edit (int id)
+        {
+
+        }
     }
 }
